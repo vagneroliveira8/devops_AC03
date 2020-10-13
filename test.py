@@ -3,3 +3,5 @@ def fun(x):
 
 def test_answer(): 
 	assert func(3) == 5
+
+test_answer()
